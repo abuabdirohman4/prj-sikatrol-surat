@@ -1,0 +1,3 @@
+[submodule "sikatrol_surat"]
+	path = sikatrol_surat
+	url = git@github.com:gerdiez/sikatrol_surat.git
